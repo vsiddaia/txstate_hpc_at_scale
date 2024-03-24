@@ -1,0 +1,9 @@
+#!/bin/bash
+base_string="result"
+for ((nproc = 2; nproc<=32; nproc+=8)); do
+	for ((nelements = 1024; nelements<=10240; nelements+=1024)); do
+		nproc_value=$(printf "%02d" $nproc)
+		nelem_value=$(printf "%05d" $nelements)
+		mpirun -np $nproc ./mpi_app_gcc 0xacedaced $nelements $nproc "${base_string}_${nproc_value}_${nelem_value}.json"
+	done
+done

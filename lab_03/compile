@@ -1,0 +1,3 @@
+#!/bin/bash
+mpicc -o mpi_app_gcc main.c rand_utils.c stats_utils.c time_utils.c json_serializer.c -I./include -lm
+

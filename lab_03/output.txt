@@ -1,0 +1,49 @@
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000400,  Mean: 0.511733,  Std Dev: 0.282364f, JSON saved to result_02_01024.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000800,  Mean: 0.511502,  Std Dev: 0.287957f, JSON saved to result_02_02048.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000c00,  Mean: 0.510194,  Std Dev: 0.288205f, JSON saved to result_02_03072.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001000,  Mean: 0.507827,  Std Dev: 0.287682f, JSON saved to result_02_04096.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001400,  Mean: 0.505630,  Std Dev: 0.287239f, JSON saved to result_02_05120.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001800,  Mean: 0.505449,  Std Dev: 0.287489f, JSON saved to result_02_06144.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001c00,  Mean: 0.507386,  Std Dev: 0.287329f, JSON saved to result_02_07168.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002000,  Mean: 0.507424,  Std Dev: 0.287461f, JSON saved to result_02_08192.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002400,  Mean: 0.509304,  Std Dev: 0.287752f, JSON saved to result_02_09216.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002800,  Mean: 0.507372,  Std Dev: 0.287982f, JSON saved to result_02_10240.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000400,  Mean: 0.511733,  Std Dev: 0.282364f, JSON saved to result_10_01024.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000800,  Mean: 0.511502,  Std Dev: 0.287957f, JSON saved to result_10_02048.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000c00,  Mean: 0.510194,  Std Dev: 0.288205f, JSON saved to result_10_03072.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001000,  Mean: 0.507827,  Std Dev: 0.287682f, JSON saved to result_10_04096.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001400,  Mean: 0.505630,  Std Dev: 0.287239f, JSON saved to result_10_05120.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001800,  Mean: 0.505449,  Std Dev: 0.287489f, JSON saved to result_10_06144.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001c00,  Mean: 0.507386,  Std Dev: 0.287329f, JSON saved to result_10_07168.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002000,  Mean: 0.507424,  Std Dev: 0.287461f, JSON saved to result_10_08192.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002400,  Mean: 0.509304,  Std Dev: 0.287752f, JSON saved to result_10_09216.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002800,  Mean: 0.507372,  Std Dev: 0.287982f, JSON saved to result_10_10240.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000400,  Mean: 0.511733,  Std Dev: 0.282364f, JSON saved to result_18_01024.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000800,  Mean: 0.511502,  Std Dev: 0.287957f, JSON saved to result_18_02048.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000c00,  Mean: 0.510194,  Std Dev: 0.288205f, JSON saved to result_18_03072.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001000,  Mean: 0.507827,  Std Dev: 0.287682f, JSON saved to result_18_04096.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001400,  Mean: 0.505630,  Std Dev: 0.287239f, JSON saved to result_18_05120.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001800,  Mean: 0.505449,  Std Dev: 0.287489f, JSON saved to result_18_06144.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001c00,  Mean: 0.507386,  Std Dev: 0.287329f, JSON saved to result_18_07168.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002000,  Mean: 0.507424,  Std Dev: 0.287462f, JSON saved to result_18_08192.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002400,  Mean: 0.509304,  Std Dev: 0.287752f, JSON saved to result_18_09216.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002800,  Mean: 0.507372,  Std Dev: 0.287982f, JSON saved to result_18_10240.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000400,  Mean: 0.511733,  Std Dev: 0.282364f, JSON saved to result_26_01024.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000800,  Mean: 0.511502,  Std Dev: 0.287957f, JSON saved to result_26_02048.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00000c00,  Mean: 0.510194,  Std Dev: 0.288205f, JSON saved to result_26_03072.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001000,  Mean: 0.507827,  Std Dev: 0.287682f, JSON saved to result_26_04096.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001400,  Mean: 0.505630,  Std Dev: 0.287239f, JSON saved to result_26_05120.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001800,  Mean: 0.505449,  Std Dev: 0.287489f, JSON saved to result_26_06144.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00001c00,  Mean: 0.507386,  Std Dev: 0.287329f, JSON saved to result_26_07168.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002000,  Mean: 0.507424,  Std Dev: 0.287462f, JSON saved to result_26_08192.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002400,  Mean: 0.509304,  Std Dev: 0.287752f, JSON saved to result_26_09216.json
+ Seed: 0xacedaced,  NumbElePerProc: 0x00002800,  Mean: 0.507372,  Std Dev: 0.287982f, JSON saved to result_26_10240.json
+
+
+
+
+cat ./result_02_01024.json
+{"seed": "0xacedaced", "num_elements_per_proc": "0x400", "mean": "0.28236380", "mean_time_secs": "0.00013700", "std_dev": "0.28236380", "stddev_time_secs": "0.00015600"}
+
+cat ./result_26_10240.json
+{"seed": "0xacedaced", "num_elements_per_proc": "0x2800", "mean": "0.28798163", "mean_time_secs": "0.00130200", "std_dev": "0.28798163", "stddev_time_secs": "0.00149400"}
