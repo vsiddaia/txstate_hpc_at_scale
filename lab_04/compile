@@ -1,0 +1,2 @@
+#!/bin/bash
+mpicc -o collect_hostnames comm_utils.c time_utils.c main.c -lm
